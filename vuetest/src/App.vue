@@ -1,18 +1,19 @@
 <template>
   <div class="wrap">
     i am jehol
-    <camera>dd</camera>
+    <geometry>dd</geometry>
   </div>
 </template>
 
 <script>
   import VueFns from './components/vueFns.vue';
   import Camera from './components/camera.vue';
+  import Geometry from './components/geometry.vue'
   export default {
     name: "app",
     components: {
       VueFns,
-      Camera
+      Geometry
     },
     data() {
       return {

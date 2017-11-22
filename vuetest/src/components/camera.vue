@@ -31,7 +31,7 @@
         // scene
         var scene = new THREE.Scene();
 
-        var camera = new THREE.PerspectiveCamera(45, 400 / 300, 1, 10);
+        var camera = new THREE.PerspectiveCamera(20, 400 / 300, 1, 10);
         camera.position.set(0, 0, 5);
         scene.add(camera);
 
