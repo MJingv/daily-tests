@@ -3847,6 +3847,16 @@ tar@^2.2.1:
     fstream "^1.0.2"
     inherits "2"
 
+three.js@^0.77.1:
+  version "0.77.1"
+  resolved "http://registry.npm.taobao.org/three.js/download/three.js-0.77.1.tgz#07858a8749e4b627a31083252a2d987776cca32a"
+  dependencies:
+    three "0.77.0"
+
+three@0.77.0:
+  version "0.77.0"
+  resolved "http://registry.npm.taobao.org/three/download/three-0.77.0.tgz#8b0b1b00047689ceaa020d480a562ca60d87ff37"
+
 time-stamp@^2.0.0:
   version "2.0.0"
   resolved "http://registry.npm.taobao.org/time-stamp/download/time-stamp-2.0.0.tgz#95c6a44530e15ba8d6f4a3ecb8c3a3fac46da357"
